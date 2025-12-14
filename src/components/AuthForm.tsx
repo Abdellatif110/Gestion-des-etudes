@@ -220,7 +220,7 @@ const AuthForm: React.FC = () => {
 
         {/* Footer */}
         <div className="text-center mt-8 text-slate-500 text-sm">
-          <p>© 2024 StudyFlow. Empowering learners worldwide.</p>
+          <p>© 2025 StudyFlow. Empowering learners worldwide.</p>
         </div>
       </div>
     </div>
