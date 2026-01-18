@@ -18,7 +18,8 @@ Vite-5.4-purple.svg
 Tailwind-3.4-38bdf8.svg
 
 
-Overview
+Overview :
+
 StudyFlow is a full-featured study management application designed to help students and lifelong learners organize their academic life, maintain focus during study sessions, and track their progress over time. The application combines multiple productivity tools into a cohesive, user-friendly interface that works entirely in the browser with no backend required.
 
 The name "StudyFlow" reflects the application's philosophy of helping users enter and maintain a productive flow state while studying. By integrating time management techniques, task organization, and learning tools, StudyFlow provides everything students need to study more effectively and achieve better academic results.
@@ -289,5 +290,4 @@ Test thoroughly before submitting
 5.
 Submit a pull request for review
 License
-This project is open source and available for personal and educational use.#   G e s t i o n - d e s - e t u d e s  
- 
+This project is open source and available for personal and educational use.#
